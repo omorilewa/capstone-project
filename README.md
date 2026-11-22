@@ -5,7 +5,11 @@ project then asks whether it still works, and whether its heatmap explanations s
 conditions an under-resourced clinic may have: compressed, low-resolution or photographed images, and a
 laptop with no GPU.
 
-**Team:** [names and affiliations]
+**Team:**  Team Blur No Be Barrier
+- Dr Solomon Nwaneri, AI Champion, University of Lagos.
+- Mariam Muhammed, Teaching Assistant, University of Lagos
+
+
 **Programme:** AI Research Foundations for Higher Education, Nigeria Cohort 1, capstone project
 
 **Research and education only. Not for clinical use.**
