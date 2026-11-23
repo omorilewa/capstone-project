@@ -6,7 +6,7 @@
 
 | | |
 |---|---|
-| Developed by | [Team name and members], AI Research Foundations for Higher Education, Nigeria Cohort 1 |
+| Developed by | Dr Solomon and Mariam Muhammed, AI Research Foundations for Higher Education, Nigeria Cohort 1 |
 | Date | November 2026 |
 | Model type | Convolutional neural network image classifier |
 | Architecture | MobileNetV2 (ImageNet weights), global average pooling, 30% dropout, one output (malignancy score) |
